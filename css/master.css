@@ -33,7 +33,7 @@ nav > .gnblogo > li > a > img:hover{transform: scale(1.2); transition: 0.2s;}
 .skill {width: 100%; height: 215px; margin: auto; text-align: center;font-weight: bold; font-size:24px; align-items: center; margin-top: 60px; color: #ffffff;}
 .skillimg {width: 308px; height: 156px; margin: auto; margin-top: 20px;}
 
-.editorial{width: 100%; height: 3500px; background-image: url("../img/bg1.png"); display: columns;
+.editorial{width: 100%; height: 3100px; background-image: url("../img/bg1.png"); display: columns;
 justify-content: center;align-items: center;background-repeat: no-repeat; background-size: contain;}
 .edlogo{width: 100%; height: 300px;margin-bottom: 100px;transform: translateY(50%);display: flex;justify-content: center;align-items: center;}
 .ed1{ height: 800px; transform: scale(0.5);}
